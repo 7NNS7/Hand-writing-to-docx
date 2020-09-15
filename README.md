@@ -1,6 +1,6 @@
 # Hand writing to docx
 
-Piple being followed.
+Pipline being followed.
 1. Curate custom dataset [ In progress ]
 2. Transfer Learn to created dataset
 3. Train
